@@ -1,6 +1,6 @@
 # Festifare
 
-This repository contains an ongoing microservices-based application developed using C#, .NET, PostgreSQL, MongoDB, RabbitMQ, SignalR, NextJS, Docker, and Kubernetes. The project structure and architecture were heavily influenced by Neil Cummings' ([Udemy course](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/)).
+This repository contains an ongoing microservices-based application developed using C#, .NET, PostgreSQL, MongoDB, RabbitMQ, SignalR, NextJS, Docker, and Kubernetes. The project structure and architecture were heavily influenced by Neil Cummings' [Udemy course](https://www.udemy.com/course/build-a-microservices-app-with-dotnet-and-nextjs-from-scratch/).
 
 #### Updates
 
