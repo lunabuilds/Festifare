@@ -6,7 +6,7 @@ This repository contains an ongoing microservices-based application developed us
 
 - **October 27, 2023 - AuctionService:** The initial update involved the completion of the AuctionService microservice. It lays the foundation for managing auctions within the application.
 
-- **Current Update November 1, 2023 - SearchService & Synchronous Messaging:** Recently, the SearchService has been completed. Additionally, synchronous HTTP messaging has been established between the AuctionService and SearchService. This integration enhances the interaction and functionality between these two services.
+- **Current Update - November 1, 2023 - SearchService & Synchronous Messaging:** Recently, the SearchService has been completed. Additionally, synchronous HTTP messaging has been established between the AuctionService and SearchService. This integration enhances the interaction and functionality between these two services.
 
 #### Technologies Used
 
